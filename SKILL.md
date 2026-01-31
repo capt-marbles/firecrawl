@@ -1,7 +1,7 @@
 ---
 name: firecrawl
 description: Web scraping and crawling with Firecrawl API. Fetch webpage content as markdown, take screenshots, extract structured data, search the web, and crawl documentation sites. Use when the user needs to scrape a URL, get current web info, capture a screenshot, extract specific data from pages, or crawl docs for a framework/library.
-version: 1.0.0
+version: 1.0.1
 author: captmarbles
 ---
 
