@@ -38,7 +38,7 @@ echo "FIRECRAWL_API_KEY=fc-your-key" >> ~/.env
 clawdhub install firecrawl
 
 # Via GitHub
-git clone https://github.com/capt-marbles/firecrawl ~/.clawdbot/skills/firecrawl
+git clone https://github.com/capt-marbles/firecrawl ~/.openclaw/skills/firecrawl
 ```
 
 ## Usage Examples
